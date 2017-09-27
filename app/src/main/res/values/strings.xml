@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">照相控制系统</string>
+    <string name="file">file</string>
+    <string name="create_new">create_new</string>
+    <string name="open">open</string>
+    <string name="view">返回</string>
+</resources>
